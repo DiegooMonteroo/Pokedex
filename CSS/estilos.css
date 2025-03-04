@@ -1,0 +1,133 @@
+.HOLA {
+    background-image: url('../IMG/kanto-map.jpeg');
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la pantalla */
+}
+.negro{
+    height: 50px; /* Ajusta según lo necesites */
+    margin: 20px auto;
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Centra horizontalmente */
+    text-align: center; /* Asegura que el texto esté centrado */
+    font-family: "Press Start 2P", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #f1eeee;
+    padding: 10px;
+    border-radius: 10px;
+    width: 40%;
+    background: rgba(5, 7, 12, 0.50); /* Fondo negro semitransparente */
+}
+a {
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #f1eeee;
+}
+.lista {
+    color: white
+    list-style-type: disc; /* Usa puntos negros */
+    font-size: 24px;
+}
+
+.fuego{
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #fe7d05;
+    padding: 5px 10px;
+    border-radius: 5px
+
+}
+.diamante{
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #020000;
+}
+.inicio{
+    text-align: center;
+    color: white;
+    padding: 10px 1% 10px 10px;
+    border-radius: 10px;
+    width: 9%;
+    margin-left: 43%;
+    background: red;
+    position: relative;
+}
+.blanco{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    text-align: center; /* Asegura que el texto esté centrado */
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    padding: 10px 0px 10px 10px;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 40%;
+}
+.uno{
+
+    margin-right: 50px; /* Añade 50px de margen a la derecha */
+    margin-left: 5%; /* Añade 25px de margen a la izquierda */
+}
+.dos{
+    margin-left: 200px; /* Añade 25px de margen a la izquierda*/
+    margin-right: 200px; /* Añade 25px de margen a la derecha */
+}
+.fondoo{
+    background-image: url("../IMG/abstract-yellow-gradient-background-vector.jpg");
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la pantalla */
+
+}
+.quatro{
+    margin-right: 50px; /* Añade 50px de margen a la derecha */
+    margin-left: 5%; /* Añade 25px de margen a la izquierda */
+}
+.cinco{
+    margin-left: 300px; /* Añade 25px de margen a la izquierda*/
+    margin-right: 300px; /* Añade 25px de margen a la derecha */
+}
+.pokedex94{
+    margin-right: 50px; /* Añade 50px de margen a la derecha */
+    margin-left: 50px; /* Añade 25px de margen a la izquierda */
+}
+.siete{
+    margin-left: 205px; /* Añade 25px de margen a la izquierda*/
+    margin-right: 250px; /* Añade 25px de margen a la derecha */
+}
+.fondoo2{
+    background-image: url("../IMG/thumb-1920-273289.jpg");
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la pantalla */
+}
+.fondoo3{
+    background-image: url("../IMG/OIP.jpg");
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la pantalla */
+}
+.pokedex7{
+    margin-right: 50px; /* Añade 50px de margen a la derecha */
+    margin-left: 50px; /* Añade 25px de margen a la izquierda */
+}
+.nueve{
+    margin-left: 300px; /* Añade 25px de margen a la izquierda*/
+    margin-right: 290px; /* Añade 25px de margen a la derecha */
+}
+.fondoo5{
+    background-image: url(../IMG/fondo-fondo-rojo-1834245.jpg);
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en la pantalla */
+}   </html>
+    
