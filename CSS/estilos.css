@@ -134,13 +134,13 @@ h1 {
     font-size: 40px;
 }
 
-@media (max-width: 768px) { /* Tablets y celulares */
+@media (max-width: 768px) { /* Tablets y moviles*/
     h1 {
         font-size: 30px;
     }
 }
 
-@media (max-width: 480px) { /* Solo celulares pequeños */
+@media (max-width: 480px) { /* Solo moviles pequeños */
     h1 {
         font-size: 20px;
     }
