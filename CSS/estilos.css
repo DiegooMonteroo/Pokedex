@@ -130,4 +130,20 @@ a {
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: center; /* Centra la imagen en la pantalla */
 }  
+h1 {
+    font-size: 40px;
+}
+
+@media (max-width: 768px) { /* Tablets y celulares */
+    h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 480px) { /* Solo celulares pequeños */
+    h1 {
+        font-size: 20px;
+    }
+}
+
     
